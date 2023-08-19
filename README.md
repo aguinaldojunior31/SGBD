@@ -1,0 +1,2 @@
+# SGBD
+mineda arquitetura
